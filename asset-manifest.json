@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BarBack/static/css/main.3be8260f.css",
+    "main.js": "/BarBack/static/js/main.4c7ec7d9.js",
+    "static/js/787.43aa4237.chunk.js": "/BarBack/static/js/787.43aa4237.chunk.js",
+    "static/media/barLogo.png": "/BarBack/static/media/barLogo.4daaaf37843134a42b6b.png",
+    "index.html": "/BarBack/index.html",
+    "main.3be8260f.css.map": "/BarBack/static/css/main.3be8260f.css.map",
+    "main.4c7ec7d9.js.map": "/BarBack/static/js/main.4c7ec7d9.js.map",
+    "787.43aa4237.chunk.js.map": "/BarBack/static/js/787.43aa4237.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3be8260f.css",
+    "static/js/main.4c7ec7d9.js"
+  ]
+}
