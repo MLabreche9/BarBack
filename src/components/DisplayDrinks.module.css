@@ -1,0 +1,16 @@
+.containerStyle {
+	background-color: rgb(226, 247, 247);
+	border-radius: 20px;
+}
+
+.row {
+	margin: 2em 0em;
+}
+
+.img {
+	height: 18rem;
+	width: auto;
+	border-radius: 20%;
+	border-style: solid;
+	border-color: rgb(64, 63, 70);
+}
